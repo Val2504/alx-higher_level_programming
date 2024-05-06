@@ -8,3 +8,4 @@
 7. Complete this source code to print Welcome to Holberton School!
 8. 7-edges: completes a sourse code
 9. 8-concat_edges.py: Complete this source code to print object-oriented programming with Python, followed by a new line.
+10. 9-easter_egg.py: Python script that prints “The Zen of Python”, by TimPeters, followed by a new line.

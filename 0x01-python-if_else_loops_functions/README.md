@@ -5,3 +5,8 @@ FILES
 3 2-print_alphabet.py
 4 3-print_alphabt.py
 5 4-print_hexa.py
+6 5-print_comb2.py
+7 6-print_comb3.py
+8 7-islower.py
+9 8-uppercase.py
+10 9-print_last_digit.py 

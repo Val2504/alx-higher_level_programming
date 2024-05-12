@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 def islower(c):
     for char in c:
-        if not ('a' <= char <= 'z'):
-            return False
-        return True
+        if ('a' <= char <= 'z'):
+            return True
+        return False

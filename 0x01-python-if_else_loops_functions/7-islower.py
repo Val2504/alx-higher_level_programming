@@ -3,4 +3,5 @@ def islower(c):
     for char in c:
         if 'a' <= char <= 'z':
             return True
+        else
         return False

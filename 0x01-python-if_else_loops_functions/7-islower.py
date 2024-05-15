@@ -2,5 +2,5 @@
 def islower(c):
         if (ord(a) <= ord(char) <= ord(z)):
             return True
-        else:
+        elif
             return False

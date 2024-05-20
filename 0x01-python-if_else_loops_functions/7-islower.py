@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 def islower(c):
-    for char in c:
-        if not ('a' <= char <= 'z'):
-            return False
-        return True
+    if len(c) != 1:
+        raise ValueError("Input must be a single character.")
+    return 'a' <= c <= 'z'

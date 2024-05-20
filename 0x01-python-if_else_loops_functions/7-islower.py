@@ -1,4 +1,6 @@
 #!/usr/bin/python3
 def islower(c):
-    for char in c:
-        return (ord(a) <= ord(char) <= ord(z))
+    if ord(a) <= ord(c) <= ord(z):
+        return True
+    else:
+        return False

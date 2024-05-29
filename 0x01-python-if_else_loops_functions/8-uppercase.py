@@ -4,4 +4,4 @@ def uppercase(str):
         if not ('A' <= char <= 'Z'):
             print("Invalid")
         else:
-            print(char)
+            print("{}".format(char))

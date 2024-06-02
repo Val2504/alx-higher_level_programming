@@ -7,7 +7,7 @@ def add(a, b):
         result = (-a) + b
     elif a > 0 and b < 0:
         result = a + (-b)
-    elif:
-        result = ((-a) + (-b))
+    else:
+        result = (-a) + (-b)
 
     return result

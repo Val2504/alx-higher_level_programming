@@ -4,4 +4,4 @@ for val in range(0, 10):
         if val == 8 and num == 9:
             print("{}{}".format(val, num))
         else:
-            print("{}{}".format(val, num) end=', ')
+            print("{}{}".format(val, num), end=', ')

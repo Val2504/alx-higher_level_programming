@@ -8,4 +8,4 @@ def fake_add(a, b):
     return a - b
 
 if __name__ == "__main__":
-    print("{} + {} = {}".format(a, b, add(a, b)))
+    print("{} + {} = {}".format(a, b, fake_add(a, b)))

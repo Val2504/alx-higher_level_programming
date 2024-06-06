@@ -1,10 +1,10 @@
 #!/usr/bin/python3
-module_name = "0-add"
-module = __import__(module_name)
+if __name__ == "__main__":
+    from add_0 import add
 
 a = 1
 b = 2
 
-result = module.add(a, b)
+result = add(a, b)
 
 print("{} + {} = {}".format(a, b, result))
